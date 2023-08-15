@@ -1,0 +1,2 @@
+- Verzió követő rendszer felállítása.
+- A használt szoftverek meghatározása.

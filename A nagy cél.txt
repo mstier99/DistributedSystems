@@ -1,0 +1,13 @@
+- Elosztott rendszereket szimuláló környezetet szeretnék kialakítani Angular, .Net Wep Api és Docker használatával. Igényes terveket szeretnék készíteni és 
+modern megoldásokkal szeretném végig vinni a projektet.
+
+- Tervekben legyenek ???
+
+- Felület legyen Angulárban megírva, legyen reszponzív és használjunk modern komponenseket. PWA-ák által nyújtott funkciókban valamenyit valósítson meg.
+
+- Az interface tartalmazzon unit, integrációs teszteket és e2e teszteket. Üzeneteket ütemeze Rabbitmq segítségével. Load balancer segítségévek horizontálisan 
+legyen bővíthető.
+
+- A környezet Docker segítségével legyen kialakítva. Compose fájl segítségével lehesen indítani. CI/CD technikákat alkalmazzon az app.
+
+- Verzió követve legyen a projekt.
