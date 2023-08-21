@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "f6Vg1Crntmj+TUM1/f1z40Hl5DdMrAEMXwLjX+1TOKg+nR0ftGwirYA/NsN9Z2G/wmjVS+cx14MFS6/iflt5xQ==",
+  "dgSpecHash": "o88emr+u3RBmG4Blq4t3EgRYA35sT12WAEKJ31xqKAaD7ET2CFQAv/yBWA/oi3W2sGU213ljzaM/5X3o699LLA==",
   "success": true,
   "projectFilePath": "C:\\Users\\stiermg\\Desktop\\Elképesztő\\RabbitMq\\Receive\\Receive.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\stiermg\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\stiermg\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\stiermg\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
