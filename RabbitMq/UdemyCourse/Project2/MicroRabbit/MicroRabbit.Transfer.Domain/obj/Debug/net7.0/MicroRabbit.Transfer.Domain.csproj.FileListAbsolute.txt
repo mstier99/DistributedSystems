@@ -1,0 +1,15 @@
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\net7.0\MicroRabbit.Transfer.Domain.deps.json
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\net7.0\MicroRabbit.Transfer.Domain.dll
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\net7.0\MicroRabbit.Transfer.Domain.pdb
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\net7.0\MicroRabbit.Transfer.Domain.csproj.AssemblyReference.cache
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\net7.0\MicroRabbit.Transfer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\net7.0\MicroRabbit.Transfer.Domain.AssemblyInfoInputs.cache
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\net7.0\MicroRabbit.Transfer.Domain.AssemblyInfo.cs
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\net7.0\MicroRabbit.Transfer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\net7.0\MicroRabbit.Transfer.Domain.dll
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\net7.0\refint\MicroRabbit.Transfer.Domain.dll
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\net7.0\MicroRabbit.Transfer.Domain.pdb
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\net7.0\ref\MicroRabbit.Transfer.Domain.dll
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\net7.0\MicroRabbit.Domain.Core.dll
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\net7.0\MicroRabbit.Domain.Core.pdb
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\net7.0\MicroRabbit.Transfer.Domain.csproj.CopyComplete

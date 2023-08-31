@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MicroRabbit.MVC.props" />
+</Project>

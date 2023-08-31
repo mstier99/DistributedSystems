@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9l/+wnnqqKD0veZnyYz51WZoU9GPKVK5IXOQuj3VUg7/7wPwr5MhtebTtAFFZ1EkuZRDywTKVT9soiv9KBz24A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stiermg\\Desktop\\Elképesztő\\RabbitMq\\UdemyCourse\\Project2\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stiermg\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\stiermg\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\stiermg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

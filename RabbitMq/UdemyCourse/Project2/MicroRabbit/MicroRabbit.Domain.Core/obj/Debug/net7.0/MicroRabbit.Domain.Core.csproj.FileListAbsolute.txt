@@ -1,0 +1,12 @@
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\net7.0\MicroRabbit.Domain.Core.deps.json
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\net7.0\MicroRabbit.Domain.Core.dll
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\net7.0\MicroRabbit.Domain.Core.pdb
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net7.0\MicroRabbit.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net7.0\MicroRabbit.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net7.0\MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net7.0\MicroRabbit.Domain.Core.AssemblyInfo.cs
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net7.0\MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net7.0\MicroRabbit.Domain.Core.dll
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net7.0\refint\MicroRabbit.Domain.Core.dll
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net7.0\MicroRabbit.Domain.Core.pdb
+C:\Users\stiermg\Desktop\Elképesztő\RabbitMq\UdemyCourse\Project2\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net7.0\ref\MicroRabbit.Domain.Core.dll

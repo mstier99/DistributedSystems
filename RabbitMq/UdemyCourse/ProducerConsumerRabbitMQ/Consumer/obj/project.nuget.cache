@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tv19u4Q6OEcKknBlkn0DsjZ+oSrXRVhDE5azI8+m45rGSGijkq0o7DszOxRqNHbiV9j4CIOihAviYLlS5ACGVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stiermg\\Desktop\\Elképesztő\\RabbitMq\\UdemyCourse\\ProducerConsumerRabbitMQ\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stiermg\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\stiermg\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\stiermg\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
